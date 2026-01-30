@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(205, 236, 205);
+}
+div{
+    margin-left: 480px;
+    margin-top: 70px;
+    background-color: rgb(205, 236, 205);
+}
+h1{
+    color: rgb(17, 63, 17);
+    margin-bottom: 60px;
+    font-size: 70px;
+    
+}
+main{
+    border: solid green;
+
+    border-radius: 149px;
+    font-size: 17px;
+    width: 70%;
+    background-color: rgb(18, 59, 18);
+    color: white;
+    padding: 45px;
+    margin-right: -100px;
+
+}
+p{
+    text-align: center;
+}
+footer a{
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(10, 59, 10);
+
+}
